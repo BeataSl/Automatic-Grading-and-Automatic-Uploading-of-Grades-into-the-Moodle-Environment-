@@ -45,7 +45,7 @@ Hindamisskriptide käivitamiseks tuleb määrata teed kaustadele, kus asuvad ül
 
 ### Hinnete automaatse ülekandmise põhiskripti käivitamine
 
-Hinnete ülekandmise skripti käivitamiseks tuleb määrata teed CSV-failile, mis sisaldab vajalikke andmeid hinnete ülekandmiseks (näiteks `resultPraktikum1.csv` või `resultPraktikum2.csv`), kursuse indefikaatori muutujasse $courseId = 9, ja tõendi (token) muutujasse $token.
+Hinnete ülekandmise skripti käivitamiseks tuleb määrata teed CSV-failile, mis sisaldab vajalikke andmeid hinnete ülekandmiseks (näiteks `resultPraktikum1.csv` või `resultPraktikum2.csv`), kursuse indefikaatori muutujasse $courseId, ja tõendi (token) muutujasse $token.
 
 #### MacOS ja Linux
 1. Ava terminal.
